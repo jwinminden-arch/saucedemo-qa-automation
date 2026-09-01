@@ -13,8 +13,8 @@ import threading
 # -------------------------
 
 TYPE_DELAY = 0
-STEP_DELAY = 0
-PAGE_DELAY = 0
+STEP_DELAY = 0.5
+PAGE_DELAY = 0.5
 
 
 def slow_type(element, text, delay=TYPE_DELAY):
