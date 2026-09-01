@@ -1,4 +1,4 @@
-# SauceDemo QA Automation
+# SauceDemo QA Automation TEST
 
 A Python and Selenium test automation project built around the SauceDemo website.
 
