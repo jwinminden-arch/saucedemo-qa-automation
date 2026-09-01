@@ -8,4 +8,4 @@ venv/
 build/
 dist/
 *.spec
-ui_animation.py
+old/
